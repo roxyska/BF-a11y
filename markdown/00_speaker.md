@@ -5,12 +5,12 @@
 ![speaker](./images/fanny.jpeg)
 ![company](./images/logo-sfeir-blanc.png)
 
-![badge first-badge](./images/angular.png)
-![badge third-badge](./images/a11y.png)
+![badge first-badge](./images/a11y.png)
+![badge third-badge](./images/angular.png)
 
 <!-- .element: style="display: flex" -->
 
-<h2> Fanny<span> Weisenburger</span></h2>
+<h2> F3Y<span> W10R</span></h2>
 
 ### Lead dev Front & Engineering Manager
 

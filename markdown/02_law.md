@@ -24,7 +24,7 @@ https://legifrance.gouv.fr/jorf/id/JORFTEXT000038811937
 
 https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000048050174
 
-##==##
+##--##
 
 # Les directives européennes
 
@@ -37,7 +37,8 @@ Notes:
 - https://eur-lex.europa.eu/legal-content/FR/TXT/PDF/?uri=CELEX:32016L2102
 - https://eur-lex.europa.eu/legal-content/FR/TXT/PDF/?uri=CELEX:32019L0882#page=14
 
-##==##
+##--##
+
 # Qui est déjà concerné ?
 
 - Personnes morales de droit **public**
@@ -46,7 +47,8 @@ Notes:
 - Les entreprises privées ayant un **chiffre d'affaire supérieur à 250 millions d'euros**
 
 ##==##
-# Qui sera concerné à partir du 28 juin 2025 ?
+
+# Des changements à partir du 28 juin 2025
 
 Extension de l'obligation au **secteur privé** (sauf aux entreprises de **moins de 10 salariés** ou dont le chiffre d'affaire ou le bilan n'excède pas **2 millions d'euros**)
 
@@ -60,6 +62,7 @@ Sont concernés, entre autres :
 
 Notes:
 - Tous les nouveaux services sont concernés, les services existants doivent être rendus accessible d'ici 2030.
+- https://eur-lex.europa.eu/legal-content/FR/TXT/PDF/?uri=CELEX:32019L0882#page=14
 
 ##==##
 # Quelles sont les obligations ?
@@ -78,7 +81,7 @@ Notes:
 # Les sanctions
 
 <div style="display: flex; justify-content: space-between; gap: 40px;">
-<img src="./images/cat-money.jpeg" alt="chat avec des lunettes de soleil dormant sur un tapis d'argent">
+<img src="./images/cat-money.jpeg" alt="chat avec des lunettes de soleil dormant sur un tapis de billets">
 
 <div>
 
@@ -93,3 +96,6 @@ Notes:
 - Jusqu'à **50 000 euros** d'amende pour defaut d'accessibilité
 </div>
 </div>
+
+
+

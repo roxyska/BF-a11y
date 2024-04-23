@@ -24,6 +24,27 @@ Notes:
 # Les typologies de Handicap
 ![](./images/spectre.jpeg)<!-- .element : class="center h-500" -->
 
+Notes:
+- Moteur:
+  - navigation clavier
+  - eviter les pages trop longues, skip-link, back to top
+  - permettre d'arreter ou relancer les animations sonores ou viseulles
+- Sensoriel
+  - visuel
+    - contrastes
+    - boutons visibles
+    - choisir la taille des caractères
+    - alt
+    - structuration logique
+    - intitulés de liens
+  - auditif
+    - sons avec fond sonore limité
+    - sous-titrage et/ou transcription
+- Mental, Psychique / Cognitif
+  - hierarchiser les contenus
+  - utiliser des liens dont le sens est clair
+  - faciliter la compréhension (description de tableau....)
+
 ##==##
 
 <!-- .slide -->
@@ -35,66 +56,4 @@ En France en 2021,
 - **3,4 millions** (6 %) déclarent être **fortement restreintes dans des activités habituelles**, en raison d’un problème de santé
 
 *Source : [Ministère de la santé et de la prévention.](https://drees.solidarites-sante.gouv.fr/publications-communique-de-presse/panoramas-de-la-drees/le-handicap-en-chiffres-edition-2023)*
-
-Selon le rapport <a href="https://webaim.org/projects/million/">WebAIM Million de 2023</a>
-
-- **96.3%** des pages d'accueil présentent des erreurs WCAG 2!
-- Avec une moyenne de **50 erreurs par page**.
-
-##==##
-
-<!-- .slide: class="transition" -->
-
-# Les grands principes (POUR)
-
-<aside class="notes">
-Perceivable - Perceptible
-
-Operable - Utilisable
-
-Understandable - Compréhensible
-
-Robust - Robuste
-</aside>
-
-##==##
-
-# Perceivable - Perceptible
-
-![center h-500](./images/perceivable.jpeg)
-
-- Faciliter la perception visuelle et auditive du contenu
-- Proposer des équivalents textuels
-- Mise en page simplifiée
-
-##==##
-
-# Operable - Utilisable
-
-![center h-500](./images/operable.jpeg)
-
-- Fournir des éléments d'orientation pour naviguer et trouver le contenu
-- Accessibilité via clavier
-- Laisser le temps de consulter
-- Prévénir l'épilepsie
-
-##==##
-
-# Understandable - Compréhensible
-
-![center h-500](./images/understandable.jpeg)
-
-- Les pages doivent fonctionner de manière prévisible
-- Correction de saisie
-- Penser aux traductions
-
-##==##
-
-# Robust - Robuste
-
-![center h-500](./images/robust.jpeg)
-
-- Optimiser la compatibilité avec les utilisations acutelles et futures
-- S'intéresser aux technologies d'assistances
-
 
